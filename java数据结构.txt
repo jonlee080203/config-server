@@ -1,0 +1,62 @@
+Java数据结构：
+1.枚举（Enumeration）
+2.位集合（BitSet）
+3.向量（Vector）
+4.栈（Stack）
+5.字典（Dictionary）
+6.哈希表（Hashtable）
+7.属性（Properties）
+8.集合（Collection）
+
+[{
+	"ZSOVBELN": "10000306",
+	"ZDNVBELN": "60000236",
+	"ZDNPOSNR": "10  ",
+    "ZPOSNR":"10",
+	"ZMATNR": "100000034",
+	"ZMATXT": "SD测试物料",
+	"ZLFIMG": 8.000,
+	"ZPLANDNDAT": "20180827",
+	"ZREADNDAT": "",
+	"ZMOVSTATUS": "",
+	"LFGSK": "部分交货",
+	"EXTEND1": "",
+	"EXTEND2": "",
+	"EXTEND3": "",
+	"EXTEND4": "",
+	"EXTEND5": ""
+}, {
+	"ZSOVBELN": "10000306",
+	"ZDNVBELN": "60000236",
+	"ZDNPOSNR": "30    ",
+ 	 "ZPOSNR":"10",
+	"ZMATNR": "100000031",
+	"ZMATXT": "SD38.8度红宝石",
+	"ZLFIMG": 10.000,
+	"ZPLANDNDAT": "20180827",
+	"ZREADNDAT": "",
+	"ZMOVSTATUS": "",
+	"LFGSK": "部分交货",
+	"EXTEND1": "",
+	"EXTEND2": "",
+	"EXTEND3": "",
+	"EXTEND4": "",
+	"EXTEND5": ""
+}, {
+	"ZSOVBELN": "10000306",
+	"ZDNVBELN": "60000236",
+	"ZDNPOSNR": "20    ",
+  	"ZPOSNR":"10",
+	"ZMATNR": "100000034",
+	"ZMATXT": "SD测试物料",
+	"ZLFIMG": 3.000,
+	"ZPLANDNDAT": "20180827",
+	"ZREADNDAT": "",
+	"ZMOVSTATUS": "",
+	"LFGSK": "部分交货",
+	"EXTEND1": "",
+	"EXTEND2": "",
+	"EXTEND3": "",
+	"EXTEND4": "",
+	"EXTEND5": ""
+}]
